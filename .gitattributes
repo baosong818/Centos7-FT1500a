@@ -1,0 +1,6 @@
+CentOS-Bochtec.iso filter=lfs diff=lfs merge=lfs -text
+kernel-4.14.0-49.10.1.el7a.ft1500a.aarch64.tar.gz filter=lfs diff=lfs merge=lfs -text
+kernel-4.15.18_rc3_arch64_bochtec.com-1.aarch64.rpm filter=lfs diff=lfs merge=lfs -text
+kernel-devel-4.15.18_rc3_arch64_bochtec.com-1.aarch64.rpm filter=lfs diff=lfs merge=lfs -text
+kernel-headers-4.15.18_rc3_arch64_bochtec.com-1.aarch64.rpm filter=lfs diff=lfs merge=lfs -text
+linux-4.15.18-rc3-arch64-bochtec.com.tar.gz filter=lfs diff=lfs merge=lfs -text
